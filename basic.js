@@ -42,3 +42,5 @@ function f(n) {
   return n * f(n - 1);
 }
 console.log(`재귀함수 : ${f(5)}`);
+
+1 ~ 100 까지 덧셈
