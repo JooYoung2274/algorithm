@@ -53,3 +53,4 @@ function solution(m, musicinfos) {
 m = "C#D#EFD#GAC";
 musicinfos = ["12:00,12:06,HELLO,CDEFGA"];
 console.log(solution(m, musicinfos));
+// test
