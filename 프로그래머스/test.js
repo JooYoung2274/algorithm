@@ -53,4 +53,4 @@ function solution(m, musicinfos) {
 m = "C#D#EFD#GAC";
 musicinfos = ["12:00,12:06,HELLO,CDEFGA"];
 console.log(solution(m, musicinfos));
-// test
+// 잔디가 왜 안심어지지
